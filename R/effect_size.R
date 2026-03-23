@@ -1,4 +1,4 @@
-#' Quantifies the relative effect sizes of each component of zmgcv` GAM model.
+#' Quantifies the relative effect sizes of each component of `mgcv` GAM
 #'
 #' @param mgcv_model a GAM model created by the `mgcv` package
 #' @param digits the number of significant figures of uysed to report effect size
